@@ -4,7 +4,7 @@ Welcome to my research portfolio! I'm Rabia, an Economics student who is super p
 
 To bring these empirical puzzles to life, I’ve built a versatile and robust toolkit: I handle heavy-duty econometric modeling in Stata, write clean data-driven code in Python, and typeset polished research papers in LaTeX. I am highly adaptable, constantly curious, and always ready to master whatever new tool or methodology is required to turn raw data into meaningful impact!
 
-[📩 Email Me](mailto:rabiaaaa101@gmail.com) | [💼 LinkedIn](/https://www.linkedin.com/in/rabia-qasim-480526309/?isSelfProfile=false) | [📄 View Resume](./Rabia%20Qasim%20CV.pdf)
+[📩 Email Me](mailto:rabiaaaa101@gmail.com) | [💼 LinkedIn](/https://www.linkedin.com/in/rabia-qasim-480526309/?isSelfProfile=false) | [📄 View Resume](./Rabia%20Qasim%20CV.docx)
 ---
 
 ## 🛠️ Stata & Research Expertise
