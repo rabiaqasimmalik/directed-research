@@ -20,18 +20,6 @@ To bring these empirical puzzles to life, I’ve built a versatile and robust to
 ## 📁 Featured Research Projects
  
   ### 1. [Empirical Analysis of Female Labor Force Participation (FLFP) in Urban Pakistan](./Informal-Economy-Research)
-* **Objective:** Investigated the determinants of FLFP, testing the "Feminization U-Hypothesis" and examining why rising female educational attainment hasn't fully translated into proportional labor market entry.
-* **Dataset:** Utilized the individual-level microdata from the **Pakistan Social and Living Standards Measurement (PSLM) Survey**, cleaning and merging demographic, education, and household asset modules.
-* **Methodology:** 
-  * Estimated a binary **Probit Model** using Maximum Likelihood Estimation (MLE) to compute marginal effects of education and household wealth.
-  * Controlled for regional labor market disparities using **District-Level Fixed Effects**.
-  * Addressed heteroskedasticity by **clustering standard errors** at the community/PSU (Primary Sampling Unit) level.
-* **Key Findings:** Confirmed a strong household "income effect," where middle-class wealth correlation acts as a barrier to participation. The positive "substitution effect" of education only becomes statistically and economically significant at the tertiary level, indicating structural barriers for moderately educated women.
-* **Key Files:** 
-  * [`cleaning_and_probit.do`](./Informal-Economy-Research/code/cleaning_and_probit.do) — Stata replication do-file (fully commented).
-  * [`econometric_paper.pdf`](./Informal-Economy-Research/documents/econometric_paper.pdf) — Complete research paper typeset in LaTeX.
- 
-  * ### 1. [Empirical Analysis of Female Labor Force Participation (FLFP) in Urban Pakistan](./Informal-Economy-Research)
 
 *   **Objective:** Investigated the microeconomic and cultural determinants of FLFP in urban Pakistan, specifically testing the "Feminization U-Hypothesis" and measuring the competing substitution and household income effects on female labor supply.
 *   **Microdata & Wrangling Nuances:**
